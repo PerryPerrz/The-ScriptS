@@ -3,7 +3,7 @@ The Snake Who Can't Be Moved
 
 ---
 
-Folder containing lots of different python scripts...
+Folder containing lots of different python scripts.
 
 > crop.py
 
@@ -11,11 +11,11 @@ Script to cut an image and save the result.
 
 > ext.py
 
-Script to rename files in a folder by changing their extension
+Script to rename files in a folder by changing their extension.
 
 > qrcode_generator.py
 
-Do I really need to explain?
+Do I really need to explain ?
 
 > removebg.py
 
