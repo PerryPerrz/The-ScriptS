@@ -31,7 +31,7 @@ Script to convert all mp4 files in a folder to mp3 format.
 
 > meilleur_routage.py
 
-Script to find the best route between two points.
+Script to find the best route between two points, from the UE Modélisation of the third year of my computer science degree.
 
 ---
 
