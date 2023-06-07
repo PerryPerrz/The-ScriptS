@@ -33,6 +33,10 @@ Script to convert all mp4 files in a folder to mp3 format.
 
 Script to find the best route between two points, from the UE Modélisation of the third year of my computer science degree.
 
+> pdf2txt.py
+
+Script to convert a PDF file to a sequence of text files, where each text file represents a page of the PDF.
+
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
